@@ -1,39 +1,53 @@
+<div align="center">
+
 # Hello! I'm Filipa Mendes de Castro Pinto :)
 
-I am a **BSc graduate in Information Systems Engineering and Management** from the University of Minho. My work sits at the intersection of **robust data architecture (Back-end/Databases)** and **creative digital product design (Front-end/UI/UX)**.
+*BSc Graduate in Information Systems Engineering | Bridging the gap between Systems Engineering and Digital Design*
 
-I believe that the most impactful systems are those that blend efficient data structures with intuitive, high-quality user interfaces.
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/filipa-castr0/)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:filipamendes.7d@gmail.com)
 
----
-
-## Tech Stack & Skills
-
-### Engineering & Data
-- **Languages:** Java, Python, JavaScript (Node.js).
-- **Databases & APIs:** SQL, Firestore, PostgreSQL, REST APIs.
-- **Systems:** BPMN, Information Systems Architecture.
-
-### Digital Design & UI/UX
-- **Prototyping:** Figma, UI/UX Design, Web Design.
-- **Creative Suite:** Adobe Illustrator, Photoshop, Premiere, After Effects.
-
-### Soft Skills
-- Project Management, Problem Solving, Collaborative Teamwork, and Lifelong Learning.
+</div>
 
 ---
 
-## Experience
-
-Currently, I apply my creative and technical skills at **EPIC Júnior**:
-- **Marketing Department:** Developing visual assets (photography, video editing, branding materials).
-- **Internal Products:** Creating responsive interfaces for internal tools (e.g., *Insight* management app) and branding (e.g., *Kickstart* recruitment app).
-- **Project Management:** Leading the "Passos Solidários" project in partnership with the Thirst Project.
+### About Me
+I am a **BSc graduate in Information Systems Engineering and Management** from the University of Minho. My work sits at the intersection of **robust data architecture (Back-end/Databases)** and **creative digital product design (Front-end/UI/UX)**. I believe that the most impactful systems are those that blend efficient data structures with intuitive, high-quality user interfaces.
 
 ---
 
-## Contact Me!
+### Tech Stack
 
-- 💼 [LinkedIn](https://linkedin.com/in/filipa-castr0/)
-- 📧 [Email](mailto:filipamendes.7d@gmail.com)
+#### Engineering & Data
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
-*BSc Graduate in Information Systems Engineering | Bridging the gap between Systems Engineering and Digital Design.*
+#### Digital Design & UI/UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+
+---
+
+### Experience at EPIC Júnior
+- **Marketing Department:** Visual assets development (photography, video editing, branding)[cite: 8, 9].
+- **Internal Products:** UI/UX design for responsive internal tools (*Insight*) and branding (*Kickstart*)[cite: 8, 9].
+- **Project Management:** Leading the "Passos Solidários" project[cite: 8, 9].
+
+---
+
+### GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=filipamcp&show_icons=true&theme=tokyo-night&count_private=true" alt="Filipa Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipamcp&layout=compact&theme=tokyo-night" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=filipamcp&theme=tokyo-night" alt="Contribution Graph" />
+</div>
