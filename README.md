@@ -40,11 +40,13 @@ I am a **BSc graduate in Information Systems Engineering and Management** from t
 
 ---
 
-### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipamcp&show_icons=true&theme=tokyo-night&count_private=true" alt="Filipa Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipamcp&layout=compact&theme=tokyo-night" alt="Top Languages" />
-</div>
+### GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rodrigoo-abreu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas Gerais" height="180px" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=rodrigoo-abreu&layout=compact&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&langs_count=8" alt="Linguagens Mais Usadas" height="180px" />
+</p>
 
 <br>
 
